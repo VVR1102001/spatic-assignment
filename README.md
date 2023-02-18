@@ -5,4 +5,8 @@ This Repository Consists of :
 
 output_data.csv - output csv file after finishing updation
 
-program.py - python program file of assignment
+spaticinternshipassignment.py - python program file of internship assignment
+
+spaticinternshipassignment.ipynb - ipynb file of internship assignment
+
+spticinternshipassignment.pdf - pdf file of insternship assignment
